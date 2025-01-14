@@ -1,0 +1,8 @@
+pokedexcli
+*.out
+*.log
+*.tmp
+.vscode/
+/go.sum
+*.modcache
+*.test
